@@ -1,1 +1,1 @@
-const a = test4;
+const six = 'six'
